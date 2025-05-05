@@ -14,4 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asakadam19.asakadam19)
+### I'm Asawari Kadam 😄
+🎓 Data Enthusiast | 💡 Insight Seeker | 🛠️ Problem Solver
+
+I'm currently pursuing my Master's in Information Systems at Santa Clara University and have 7+ years of industry experience at Oracle and Tesla, turning messy data into meaningful insights. I specialize in data analytics, engineering, and automation — and love simplifying complexity to power smart decisions.
+
+- 🔍 Passionate about data-driven storytelling & ML-driven solutions  
+- 📊 Experienced in Python, SQL, Tableau, Airflow & cloud tools  
+- 🚀 Ex-Tesla | Ex-Oracle | Building scalable data pipelines and uncovering insights  
+- 🌱 Always learning — currently diving deeper into ML, DevOps & AI in fraud detection  
+- 💬 Let's talk about data, analytics, or cool dashboards!
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asakadam19/) | 📍 California, USA  
