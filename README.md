@@ -25,3 +25,6 @@ I'm currently pursuing my Master's in Information Systems at Santa Clara Univers
 - 💬 Let's talk about data, analytics, or cool dashboards!
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asakadam19/) | 📍 California, USA  
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asakadam19.asakadam19)
