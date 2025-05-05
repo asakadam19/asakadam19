@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Asawari Kadam 😄
+### Hey there! I'm Asawari Kadam 👋
 🎓 Data Enthusiast | 💡 Insight Seeker | 🛠️ Problem Solver
 
 I'm currently pursuing my Master's in Information Systems at Santa Clara University and have 7+ years of industry experience at Oracle and Tesla, turning messy data into meaningful insights. I specialize in data analytics, engineering, and automation — and love simplifying complexity to power smart decisions.
